@@ -5,7 +5,8 @@
   👨‍💻 All of my projects are available at 
   <a href="https://portfolio-moeez.vercel.app" target="_blank">portfolio-moeez.vercel.app</a><br/><br/>
   💬 Ask me about <b>Full Stack Development, PostgreSQL, Firebase</b><br/><br/>
-  📫 How to reach me: <b>moeez.iqbal.work@gmail.com</b><br/><br/>
+📫 How to reach me:  
+  <a href="mailto:moeez.iqbal.work@gmail.com">moeez.iqbal.work@gmail.com</a><br/><br/>
   ⚡ Fun fact: <b>I love turning complex problems into simple solutions.</b>
 </div>
 
