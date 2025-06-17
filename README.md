@@ -1,30 +1,13 @@
-![banner](https://github.com/MoeezIqbal/MoeezIqbal/blob/main/your-banner.png)
+<h3 align="center">Software Engineering Student || Full Stack Developer</h3>
 
-<h3 align="center">Software Engineer || Full Stack Developer</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MoeezIqbal&label=Profile%20views&color=0e75b6&style=flat" alt="MoeezIqbal" />
-</p>
+🌱 I’m currently learning DevOps and scalable system design.
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MoeezIqbal" alt="MoeezIqbal" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/your-twitter" target="blank">
-    <img src="https://img.shields.io/twitter/follow/your-twitter?logo=twitter&style=for-the-badge" alt="your-twitter" />
-  </a>
-</p>
-
-- 🌱 I’m currently learning **DevOps, System Design & Advanced Architecture**
-
-- 👨‍💻 All of my projects are available at [https://your-portfolio.com](https://your-portfolio.com)
+- 👨‍💻 All of my projects are available at [https://portfolio-moeez.vercel.app](https://portfolio-moeez.vercel.app)
 
 - 💬 Ask me about **Full Stack Development, PostgreSQL, Firebase**
 
-- 📫 How to reach me: **your-email@gmail.com**
+- 📫 How to reach me: **moeez.iqbal.work@gmail.com**
 
 - ⚡ Fun fact: **I love turning complex problems into simple solutions.**
 
@@ -46,8 +29,13 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoeezIqbal&show_icons=true&locale=en&layout=compact" alt="MoeezIqbal" /></p>
+<h3 align="center">🚀 Let's build something amazing together!</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MoeezIqbal&show_icons=true&locale=en" alt="MoeezIqbal" /></p>
+<p align="center">
+  <em>“Code is like humor. When you have to explain it, it’s bad.”</em> — Cory House
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MoeezIqbal&" alt="MoeezIqbal" /></p>
+<p align="center">
+  <b>Thanks for visiting my profile! Feel free to connect and collaborate 💻✨</b>
+</p>
+
