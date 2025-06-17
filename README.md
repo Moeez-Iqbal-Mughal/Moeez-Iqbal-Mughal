@@ -1,16 +1,14 @@
 <h3 align="center">Software Engineering Student || Full Stack Developer</h3>
 
-<p align = "center" >
-🌱 I’m currently learning DevOps and scalable system design.
+<div align="center">
+  🌱 I’m currently learning DevOps and scalable system design.<br/><br/>
+  👨‍💻 All of my projects are available at 
+  <a href="https://portfolio-moeez.vercel.app" target="_blank">portfolio-moeez.vercel.app</a><br/><br/>
+  💬 Ask me about <b>Full Stack Development, PostgreSQL, Firebase</b><br/><br/>
+  📫 How to reach me: <b>moeez.iqbal.work@gmail.com</b><br/><br/>
+  ⚡ Fun fact: <b>I love turning complex problems into simple solutions.</b>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-moeez.vercel.app](https://portfolio-moeez.vercel.app)
-
-- 💬 Ask me about **Full Stack Development, PostgreSQL, Firebase**
-
-- 📫 How to reach me: **moeez.iqbal.work@gmail.com**
-
-- ⚡ Fun fact: **I love turning complex problems into simple solutions.**
-</p>
 
 ---
 
