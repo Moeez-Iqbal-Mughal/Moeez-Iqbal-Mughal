@@ -3,7 +3,7 @@
 <div align="center">
   🌱 I’m currently learning DevOps and scalable system design.<br/><br/>
   👨‍💻 All of my projects are available at 
-  <a href="https://portfolio-moeez-iqbal.vercel.app" target="_blank">portfolio-moeez-iqbal.vercel.app</a><br/><br/>
+  <a href="https://portfolio-moeez-dev.vercel.app" target="_blank">portfolio-moeez-dev.vercel.app</a><br/><br/>
   💬 Ask me about <b>Full Stack Development, PostgreSQL, Firebase</b><br/><br/>
 📫 How to reach me:  
   <a href="mailto:moeez.iqbal.work@gmail.com">moeez.iqbal.work@gmail.com</a><br/><br/>
