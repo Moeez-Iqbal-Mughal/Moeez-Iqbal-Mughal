@@ -12,7 +12,7 @@
   <a href="https://www.upwork.com/freelancers/~017d32611130515f6a?viewMode=1"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
 </p>
 
-📍 Lahore, Pakistan &nbsp;•&nbsp; ☕ *"Turning coffee into clean code — one commit at a time"*
+📍 Lahore, Pakistan &nbsp;•&nbsp; ☕ *"Turning coffee into clean code - one commit at a time"*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:22D3EE,100:34D399&height=2&width=100%" width="100%"/>
 
@@ -54,7 +54,6 @@ Full Stack Developer building **SaaS platforms, REST APIs, and AI automation** s
 <img src="https://img.shields.io/badge/Prompt%20Engineering-34D399?style=for-the-badge"/>
 </p>
 
-<br/>
 
 ## 🛠️ What I Build
 
@@ -83,7 +82,7 @@ Full Stack Developer building **SaaS platforms, REST APIs, and AI automation** s
 
 <img src="https://komarev.com/ghpvc/?username=Moeez-Iqbal-Mughal&style=for-the-badge&color=34D399"/>
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+*"First, solve the problem. Then, write the code."* - John Johnson
 
 **Feel free to connect and collaborate 💻✨**
 
