@@ -124,25 +124,21 @@ Payment Integrations · E-commerce
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Moeez-Iqbal-Mughal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=22D3EE&icon_color=34D399&text_color=c9d1d9&bg_color=0d1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moeez-Iqbal-Mughal&layout=compact&theme=tokyonight&hide_border=true&title_color=22D3EE&text_color=c9d1d9&bg_color=0d1117"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Moeez-Iqbal-Mughal&theme=tokyonight&hide_border=true&background=0d1117&ring=34D399&fire=22D3EE&currStreakLabel=34D399"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Moeez-Iqbal-Mughal&theme=algolia&row=1&column=7&no-frame=true&margin-w=8"/>
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Moeez-Iqbal-Mughal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=22D3EE&icon_color=34D399&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moeez-Iqbal-Mughal&layout=compact&theme=tokyonight&hide_border=true&title_color=22D3EE&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400"/>
 
 <br/>
 
-## 🟩 Contribution Graph
+<img src="https://streak-stats.demolab.com?user=Moeez-Iqbal-Mughal&theme=tokyonight&hide_border=true&background=0d1117&ring=34D399&fire=22D3EE&currStreakLabel=34D399&sideNums=22D3EE&dates=8b949e"/>
 
-<div align="center">
-<img src="https://ghchart.rshah.org/34D399/Moeez-Iqbal-Mughal" alt="Moeez-Iqbal-Mughal's contribution graph" width="100%"/>
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Moeez-Iqbal-Mughal&theme=algolia&row=1&column=7&no-frame=true&margin-w=8&margin-h=8"/>
+
 </div>
+
+> 💡 *GitHub's stat-card services occasionally rate-limit and take a few seconds (or a refresh) to load — that's on their end, not the profile.*
 
 <br/>
 
