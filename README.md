@@ -82,8 +82,7 @@ Full Stack Developer building **SaaS platforms, REST APIs, and AI automation** s
  
 <br/>
 
-
- 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <img src="https://streak-stats.demolab.com?user=Moeez-Iqbal-Mughal&theme=tokyonight&hide_border=true&background=0d1117&ring=34D399&fire=22D3EE&currStreakLabel=34D399&sideNums=22D3EE&dates=8b949e"/>
 
