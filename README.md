@@ -58,29 +58,30 @@ Full Stack Developer building **SaaS platforms, REST APIs, and AI automation** s
 <br/>
 
 ## 🛠️ What I Build
-
+ 
 **🧱 Platforms**
 <br/>
-<img src="https://img.shields.io/badge/SaaS%20Platforms-6366F1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Admin%20Panels-6366F1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Business%20Dashboards-6366F1?style=flat-square"/>
-<img src="https://img.shields.io/badge/PWAs-6366F1?style=flat-square"/>
-
+<img src="https://img.shields.io/badge/SaaS%20Platforms-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Admin%20Panels-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Business%20Dashboards-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/PWAs-8B5CF6?style=flat-square"/>
+ 
 **🔌 Backend Systems**
 <br/>
-<img src="https://img.shields.io/badge/REST%20APIs-22D3EE?style=flat-square"/>
-<img src="https://img.shields.io/badge/Auth%20Systems-22D3EE?style=flat-square"/>
-<img src="https://img.shields.io/badge/CRM%20Systems-22D3EE?style=flat-square"/>
-<img src="https://img.shields.io/badge/Booking%20Platforms-22D3EE?style=flat-square"/>
-
+<img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Auth%20Systems-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/CRM%20Systems-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Booking%20Platforms-0EA5E9?style=flat-square"/>
+ 
 **💳 Commerce & Cloud**
 <br/>
-<img src="https://img.shields.io/badge/Payment%20Integrations-34D399?style=flat-square"/>
-<img src="https://img.shields.io/badge/E--commerce-34D399?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cloud%20Apps-34D399?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI%20Automation-34D399?style=flat-square"/>
-
+<img src="https://img.shields.io/badge/Payment%20Integrations-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/E--commerce-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud%20Apps-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Automation-F59E0B?style=flat-square"/>
+ 
 <br/>
+
 
 ## 📊 GitHub Stats
 
