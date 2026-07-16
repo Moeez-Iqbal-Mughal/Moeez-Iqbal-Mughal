@@ -12,7 +12,7 @@
   <a href="https://www.upwork.com/freelancers/~017d32611130515f6a?viewMode=1"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
 </p>
 
-📍 Lahore, Pakistan &nbsp;•&nbsp; ☕ *"Turning coffee into clean code - one commit at a time"*
+📍 Lahore, Pakistan &nbsp;•&nbsp; ☕ *"Turning coffee into clean code — one commit at a time"*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:22D3EE,100:34D399&height=2&width=100%" width="100%"/>
 
@@ -38,6 +38,7 @@ Full Stack Developer building **SaaS platforms, REST APIs, and AI automation** s
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 <p>
@@ -58,9 +59,25 @@ Full Stack Developer building **SaaS platforms, REST APIs, and AI automation** s
 
 ## 🛠️ What I Build
 
-| 🧱 Platforms | 🔌 Backend | 💳 Commerce & Cloud |
-|:---:|:---:|:---:|
-| SaaS Platforms · Admin Panels · Dashboards | REST APIs · Auth Systems · CRM · Bookings | Payments · E-commerce · Cloud Apps · AI Automation |
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+<img src="https://img.shields.io/badge/🧱-Platforms-6366F1?style=for-the-badge&labelColor=0d1117"/>
+<br/><br/>
+SaaS Platforms<br/>Admin Panels<br/>Business Dashboards<br/>PWAs
+</td>
+<td width="33%" valign="top" align="center">
+<img src="https://img.shields.io/badge/🔌-Backend-22D3EE?style=for-the-badge&labelColor=0d1117"/>
+<br/><br/>
+REST APIs<br/>Auth Systems<br/>CRM Systems<br/>Booking Platforms
+</td>
+<td width="33%" valign="top" align="center">
+<img src="https://img.shields.io/badge/💳-Commerce_&_Cloud-34D399?style=for-the-badge&labelColor=0d1117"/>
+<br/><br/>
+Payment Integrations<br/>E-commerce<br/>Cloud Apps<br/>AI Automation
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -83,7 +100,7 @@ Full Stack Developer building **SaaS platforms, REST APIs, and AI automation** s
 
 <img src="https://komarev.com/ghpvc/?username=Moeez-Iqbal-Mughal&style=for-the-badge&color=34D399"/>
 
-*"First, solve the problem. Then, write the code."* - John Johnson
+*"First, solve the problem. Then, write the code."* — John Johnson
 
 **Feel free to connect and collaborate 💻✨**
 
