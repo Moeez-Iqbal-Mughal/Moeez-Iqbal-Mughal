@@ -20,39 +20,13 @@
 
 ## 💫 About Me
 
-<table>
-<tr><td>
+🎯 Full Stack Developer building **Modern Web Apps, SaaS Platforms, REST APIs, and AI Automation** solutions.
 
-```yaml
-Name: Moeez Iqbal
-Role: Full Stack Developer
+🌱 Currently deepening my skills in **DevOps, Docker, CI/CD, Kubernetes, AWS, and System Design**.
 
-Experience:
-  - Modern Web Applications
-  - SaaS Platforms
-  - REST APIs
-  - AI Automation
-  - Business Solutions
+🧩 Core specialties: **MERN Stack, Next.js, PostgreSQL, Firebase, AI Integration, Workflow Automation**.
 
-Currently Learning:
-  - DevOps · Docker · CI/CD
-  - Kubernetes · AWS
-  - System Design
-
-Specialties:
-  - MERN Stack · Next.js
-  - PostgreSQL · Firebase
-  - AI Integration
-  - Workflow Automation
-
-Fun Fact:
-  "I enjoy transforming complex
-   business problems into
-   scalable software."
-```
-
-</td></tr>
-</table>
+⚡ Fun fact: *I enjoy transforming complex business problems into scalable software.*
 
 <br/>
 
@@ -103,9 +77,9 @@ Fun Fact:
 
 <br/>
 
-## 📈 Contribution Graph
+## 🟩 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moeez-Iqbal-Mughal&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://ghchart.rshah.org/6366F1/Moeez-Iqbal-Mughal" alt="Moeez-Iqbal-Mughal's contribution graph" width="100%"/>
 
 <br/>
 
